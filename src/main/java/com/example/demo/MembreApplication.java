@@ -41,7 +41,7 @@ public class MembreApplication implements CommandLineRunner {
 					.encadrant(null)
 					.cv("cv1")
 					.nom("abid")
-					.prenom("youssef)")
+					.prenom("Takoua")
 					.sujet("blockhain")
 					.build();
 					
